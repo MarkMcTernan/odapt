@@ -9,7 +9,7 @@ A java implementation of a high performance micro-ORM that supports:
 * ...to present a unified, object repository with EF style optimizations that are entirely persistence store agnostic.
 
 # Party Slogans:
-"Let the database and the code do what they do best"
+"Let the database and the code do what they do best"<p>
 "ORM's don't exist to spare you from SQL"
 
 # Status:
