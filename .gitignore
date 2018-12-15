@@ -2,6 +2,11 @@
 target/
 .idea/
 .vscode/
+.settings/
+
+#eclipse/maven cruft
+.project
+.classpath
 
 # Compiled class file
 *.class
