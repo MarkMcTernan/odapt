@@ -1,4 +1,4 @@
-# odapt
+# odapt (oh-dapt)
 odapt - a modular repository framework for tranforming data sources into objects and back again.
 
 A java implementation of a high performance micro-ORM that supports:
